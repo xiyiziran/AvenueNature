@@ -4,7 +4,6 @@
  */
 package com.alipay.full.utils;
 
-import org.jetbrains.annotations.Contract;
 
 /**
  * @author wujing.ch
